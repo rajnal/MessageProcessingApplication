@@ -1,9 +1,4 @@
 /bin/
-/logs
 /bin
 /build
-.*
-.*/
-/.*
-/.*/
 !/.gitignore
